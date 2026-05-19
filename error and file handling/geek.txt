@@ -1,0 +1,2 @@
+hii world 
+writin to file by overwriting
