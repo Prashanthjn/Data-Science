@@ -1,0 +1,1 @@
+Artificial Intelligence (AI) is a part of computer science that creates smart machines to do tasks that usually need human intelligence, like learning, problem-solving, and understanding language. AI uses methods like machine learning and deep learning to improve over time.
